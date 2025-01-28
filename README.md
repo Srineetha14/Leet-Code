@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Srineetha14/Leet-Code/tree/master/0051-n-queens) |
+| [0088-merge-sorted-array](https://github.com/Srineetha14/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/Srineetha14/Leet-Code/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Srineetha14/Leet-Code/tree/master/0179-largest-number) |
 ## String
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Srineetha14/Leet-Code/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Srineetha14/Leet-Code/tree/master/0179-largest-number) |
 ## Stack
 |  |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Srineetha14/Leet-Code/tree/master/0051-n-queens) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Srineetha14/Leet-Code/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
